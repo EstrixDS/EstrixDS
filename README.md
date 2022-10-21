@@ -25,5 +25,5 @@ My Name is Tobias Esser. I'm a Graduate at University of Applied Sciences Scienc
 
 ## How to reach me:
 
-- [Twitter](twitter.com/EstrixDS)
+- [Twitter](https://twitter.com/EstrixDS)
 - [Mail](mailto:tobias_vincent.esser@smail.th-koeln.de)
